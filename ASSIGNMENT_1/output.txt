@@ -1,0 +1,32 @@
+Region 1
+The salesman 1 Rs0/
+The salesman 2 Rs16/
+The salesman 3 Rs14/
+The salesman 4 Rs0/
+The salesman 5 Rs0/
+The salesman 6 Rs0/
+Total sale at Region 1 is30 
+Region 2
+The salesman 1 Rs0/
+The salesman 2 Rs0/
+The salesman 3 Rs0/
+The salesman 4 Rs0/
+The salesman 5 Rs0/
+The salesman 6 Rs18/
+Total sale at Region 2 is18 
+Region 3
+The salesman 1 Rs0/
+The salesman 2 Rs0/
+The salesman 3 Rs0/
+The salesman 4 Rs12/
+The salesman 5 Rs0/
+The salesman 6 Rs2/
+Total sale at Region 3 is14 
+Region 4
+The salesman 1 Rs14/
+The salesman 2 Rs0/
+The salesman 3 Rs0/
+The salesman 4 Rs20/
+The salesman 5 Rs0/
+The salesman 6 Rs30/
+Total sale at Region 4 is64 
